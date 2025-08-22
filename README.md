@@ -1,10 +1,6 @@
 # Signal Processing: Course Project
 This project consists of 3 tasks/problem statements, namely, Bird Recognition, Heart Rate Estimation and Speech cum Loudness Detection
 
-### Team members 
-- [MP Samartha](https://github.com/samarthamp)
-- [Srihari Padmanabhan](https://github.com/sriharip114)
-- [Kiruba Selvakumar](https://github.com/Kiruba-Selvakumar)
 
 ## Bird Recognition
 You are provided reference files of chirps of each bird in a sample set(i.e, consider 3 birds with reference files ref1.wav, ref2.wav and ref3.wav). You are tasked with determining all the birds whose chirps are present in a given audio file.
